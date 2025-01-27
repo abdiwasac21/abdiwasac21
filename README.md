@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdiwasac Adnan</h1>
-<h3 align="center">Software Engineer in training, tackling challenges with Python. Always learning!</h3>
+<h3 align="center">Aspiring Software Engineer | Python Enthusiast | Lifelong Learner</h3>
 
 - 🔭 I’m currently working on **Loola AI**
 
