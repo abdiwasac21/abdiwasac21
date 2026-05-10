@@ -46,10 +46,7 @@
 
 ---
 ### 📊 GitHub Analytics
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdiwasac21&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiwasac21&layout=compact&theme=radical&hide=html,css" />
-</p>
+
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdiwasac21&theme=radical" />
