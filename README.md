@@ -433,5 +433,5 @@ console.log("%cNow drop a ⭐ on a repo. You know you want to.", "color:#FF6B9D;
 
 <div align="center">
 <sub>✨ <i>"The only way to do great work is to love what you do."</i> — Steve Jobs</sub><br/>
-<sub>Crafted with ❤️ + ☕ in Hargeysa, Somaliland 🇸🇴</sub>
+<sub>Crafted with ❤️ + ☕ in Borama, Somaliland</sub>
 </div>
