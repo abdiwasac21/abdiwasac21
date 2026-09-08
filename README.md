@@ -1,52 +1,43 @@
-<!-- Reach me: hasanabdiwasac@gmail.com -->
+<!-- Reach me: hasanabdiwasac@gmail.com — bug reports also welcome -->
 
 # Abdiwasac Adnan
 
-Software engineer — full-stack, cross-platform mobile, backend & AI integration. Based in Somaliland.
+Full-stack engineer. I turn caffeine into merge conflicts and mobile-money apps for the Horn of Africa.
 
 ## About
 
-I work across the full stack, but most of my time goes to backend architecture, system integration, and the unglamorous work of making different systems talk to each other correctly — including integrating AI and LLMs into real applications.
+I mostly do backend architecture, system integration, and getting two APIs that hate each other to cooperate. I also put LLMs into production and then explain to everyone why the LLM said that.
 
-On every project I ask one question: *did this measurably make someone's work easier?* I'd rather ship boring, reliable code than clever code that never reaches production. A lot of my own building targets the Horn of Africa — fintech and tooling designed around mobile money and offline-first realities from day one.
+One rule per project: *did this actually make someone's work easier?* If not, I've built a very elegant paperweight. I ship boring code — the exciting kind pages you at 3 a.m. Offline-first by default, because the internet here has commitment issues.
 
 ## Tech
 
-- **Languages** — TypeScript, JavaScript, Python, C#, PHP, Bash
-- **Web & mobile** — React, Next.js, React Native, .NET MAUI, Tailwind
+- **Speak fluently** — TypeScript, JavaScript, Python, C#, PHP, Bash (under duress)
+- **Web & mobile** — React, Next.js, React Native, .NET MAUI, Tailwind (yes, it's just CSS; no, I won't stop)
 - **Backend & data** — Node.js, NestJS, Express, PostgreSQL, MongoDB, SQL Server
-- **Infra & tooling** — Docker, Git, Linux, Postman
+- **Ops** — Docker ("works in the container"), Git, Linux, Postman
 
 ## What I build
 
-- **Full-stack web** — Next.js frontends over Node.js or Python services; native-feeling apps that stay maintainable.
-- **Cross-platform mobile** — React Native and .NET MAUI, offline-first with reliable sync.
-- **Backend & integration** — schema design, indexing, clean API boundaries, and connecting systems that were never meant to talk — with attention to error handling and idempotency.
-- **Fintech for emerging markets** — digitizing mobile-money workflows and traditional savings systems for a market underserved by global platforms.
-- **AI integration** — LLMs as dependable features inside an application: structured outputs, tool use, retrieval, made accurate and production-ready.
+- **Web apps** that stay fast until someone opens DevTools.
+- **Mobile apps** that sync reliably — or apologize nicely when they don't.
+- **Backend integrations** — idempotency, retries, and the 14 edge cases nobody mentioned in the meeting.
+- **Fintech & AI** — mobile-money tooling for a market global platforms forgot, plus LLM features that are 95% prompt wrangling and 5% pretending I planned it.
 
 ## How I work
 
-- Make it work, then right, then fast — in that order, every time.
-- Boring code is good code. Save the cleverness for architecture, not syntax.
-- Code is read far more than it's written. Optimize for the next person.
-- Shipped beats perfect. A v1 in production teaches more than a v3 in my head.
-- Trust the tests, not the vibes.
+- Make it work, then right, then fast. Usually still stuck on step one.
+- Boring code is good code. Save the cleverness for architecture, not the one-liner nobody can read.
+- Code is read more than it's written — mostly by future me, cursing past me.
+- `git commit -m "fix"` — the third one today.
+- Trust the tests, not the vibes. The vibes lie.
 
 ## Contact
 
-Open to freelance work, OSS collaboration, and conversations about backend, fintech, and AI.
+Open to freelance work, OSS collaboration, and arguments about tabs vs spaces (I'm right).
 
-<p>
-<a href="mailto:hasanabdiwasac@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abdiwasac-hasan-73851026a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/abdiwasach"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
+- Email — hasanabdiwasac@gmail.com
+- LinkedIn — [abdiwasac-hasan](https://linkedin.com/in/abdiwasac-hasan-73851026a)
+- X — [@abdiwasach](https://x.com/abdiwasach)
 
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt=""/>
-
-<div align="center">
-<sub>Open to freelance work, OSS collaboration, and conversations about backend, fintech, and AI.</sub>
-</div>
+<sub>It works on my machine. 🚀</sub>
